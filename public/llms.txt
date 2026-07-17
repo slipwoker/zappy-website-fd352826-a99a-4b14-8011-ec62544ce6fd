@@ -1,0 +1,86 @@
+# המטבח של רחלי — Generative Engine Optimization Map
+
+> A personal baking website called 'Racheli's Kitchen' focused on sharing special and impressive cake recipes. The brand has a warm, homey, and passionate feel centered around baking and sweets, with a personal touch from the owner Racheli.
+
+---
+
+## Pages
+
+### דף הבית
+https://-fd352826.zappy5.app
+ברוכים הבאים למטבח של רחלי, בלוג אפייה ישראלי חם ומלא תשוקה למתוקים. קבלו השראה למתכונים לעוגות ביתיות, טיפים מנצחים ורעיונות לאפייה ביתית שתכבוש את הלב. הצטרפו למסע המתוק עכשיו!
+
+### מתכוני עוגות
+https://-fd352826.zappy5.app/cake-recipes
+מחפשים מתכונים לעוגות ביתיות שירשימו את כולם? במטבח של רחלי תגלו אוסף עשיר של עוגות קלות להכנה לילדים, קינוחים מרהיבים ורעיונות מתוקים שכל אחד יכול להצליח בהם. היכנסו ותתחילו לאפות!
+
+### טיפים לאפייה
+https://-fd352826.zappy5.app/baking-tips
+רוצים להפוך לאופים מומחים? במטבח של רחלי תמצאו טיפים לאפייה, סודות מקצועיים וטריקים קטנים שיהפכו כל עוגה ביתית לחגיגה אמיתית. אל תפספסו את המדריך שישנה לכם את המטבח!
+
+### אודות רחלי
+https://-fd352826.zappy5.app/about
+מי עומדת מאחורי המתכונים לעוגות ביתיות הכי שוות ברשת? הכירו את רחלי, האופה הביתית עם התשוקה הכי גדולה למתוקים. סיפור אישי, השראה וקצת אהבה לכל מה שטעים. בואו להכיר מקרוב!
+
+### צור קשר
+https://-fd352826.zappy5.app/contact
+רוצים לשתף חוויה מהמתכונים לעוגות ביתיות או צריכים עזרה? צרו קשר עם רחלי מהמטבח של רחלי. אני כאן לכל שאלה, בקשה או סתם שיח מתוק על אפייה. שלחו הודעה ואחזור אליכם במתיקות!
+
+### תודה - המטבח של רחלי
+https://-fd352826.zappy5.app/thank-you
+המטבח של רחלי - תודה - המטבח של רחלי
+
+## Legal & Policy
+
+### Privacy Policy
+https://-fd352826.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-fd352826.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-fd352826.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-fd352826.zappy5.app/contact
+- Endpoint: https://-fd352826.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About המטבח של רחלי
+A personal baking website called 'Racheli's Kitchen' focused on sharing special and impressive cake recipes. The brand has a warm, homey, and passionate feel centered around baking and sweets, with a personal touch from the owner Racheli.
+
+## Target Audience
+- חובבי אפייה ביתית
+- בלוגרים של קינוחים
+- הורים מבשלים
+
+## Industry
+Food & Baking Blog
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-fd352826.zappy5.app/sitemap.xml
+- Robots: https://-fd352826.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-fd352826.zappy5.app/llms-full.txt
