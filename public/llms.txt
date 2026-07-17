@@ -7,41 +7,41 @@
 ## Pages
 
 ### דף הבית
-https://-fd352826.zappy5.app
+https://example.com
 ברוכים הבאים למטבח של רחלי, בלוג אפייה ישראלי חם ומלא תשוקה למתוקים. קבלו השראה למתכונים לעוגות ביתיות, טיפים מנצחים ורעיונות לאפייה ביתית שתכבוש את הלב. הצטרפו למסע המתוק עכשיו!
 
 ### מתכוני עוגות
-https://-fd352826.zappy5.app/cake-recipes
+https://example.com/cake-recipes
 מחפשים מתכונים לעוגות ביתיות שירשימו את כולם? במטבח של רחלי תגלו אוסף עשיר של עוגות קלות להכנה לילדים, קינוחים מרהיבים ורעיונות מתוקים שכל אחד יכול להצליח בהם. היכנסו ותתחילו לאפות!
 
 ### טיפים לאפייה
-https://-fd352826.zappy5.app/baking-tips
+https://example.com/baking-tips
 רוצים להפוך לאופים מומחים? במטבח של רחלי תמצאו טיפים לאפייה, סודות מקצועיים וטריקים קטנים שיהפכו כל עוגה ביתית לחגיגה אמיתית. אל תפספסו את המדריך שישנה לכם את המטבח!
 
 ### אודות רחלי
-https://-fd352826.zappy5.app/about
+https://example.com/about
 מי עומדת מאחורי המתכונים לעוגות ביתיות הכי שוות ברשת? הכירו את רחלי, האופה הביתית עם התשוקה הכי גדולה למתוקים. סיפור אישי, השראה וקצת אהבה לכל מה שטעים. בואו להכיר מקרוב!
 
 ### צור קשר
-https://-fd352826.zappy5.app/contact
+https://example.com/contact
 רוצים לשתף חוויה מהמתכונים לעוגות ביתיות או צריכים עזרה? צרו קשר עם רחלי מהמטבח של רחלי. אני כאן לכל שאלה, בקשה או סתם שיח מתוק על אפייה. שלחו הודעה ואחזור אליכם במתיקות!
 
 ### תודה - המטבח של רחלי
-https://-fd352826.zappy5.app/thank-you
+https://example.com/thank-you
 המטבח של רחלי - תודה - המטבח של רחלי
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-fd352826.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-fd352826.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-fd352826.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -51,8 +51,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://-fd352826.zappy5.app/contact
-- Endpoint: https://-fd352826.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -81,6 +81,6 @@ Food & Baking Blog
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-fd352826.zappy5.app/sitemap.xml
-- Robots: https://-fd352826.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-fd352826.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
